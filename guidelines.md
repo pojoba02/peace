@@ -1,7 +1,9 @@
-📖 Community Guidelines
-We created these guidelines together with the community to ensure we can all achieve a mutually peaceful, respectful, supportive and kind existence under this digital home we call Okuna.
+# 📖 Community Guidelines
 
-In short:
+### 🌍 🌏 😁 SweeLoL
+We're a global community of many types of people, who all have the right to feel comfortable and who may not think what you think, believe what you believe, or see what you see. So, be polite and respectful in your interactions with other members
+Our goal is to foster conversations that are helpful, informative, fun and to Put a smile on someone's face.
+This was created together with the community to ensure we can all achieve a mutually peaceful, respectful, supportive and kind existence under this digital home we call SweeLOL.
 
 Embrace diversity, drop the labels and stereotypes, be courteous and polite, respect people’s privacy, curb hate, avoid spamming, keep the bots out, ditch the pornography, keep content legal —and embrace the shared responsibility.
 
@@ -11,7 +13,7 @@ Those acting outside these guidelines risk having their accounts/content suspend
 
 We also aim to make the process of enforcing these guidelines transparent and open to debate.
 
-🌎 Embrace diversity
+### 🌎 ✌🏿 ✌️Embrace diversity
 In a boring world, we would all look, think and act the same way. Luckily, we all look, think and act differently and the world isn’t boring.
 
 Such diversity is one of the greatest strengths of our society; it allows us to collectively think critically about stuff, make better decisions by having a wider range of experiences, and even unlocks previously unattainable innovation. Because we embrace diversity we have a list of 13 protected differences we hope members of Okuna at best embrace and at least, tolerate.
@@ -29,14 +31,14 @@ Race
 Religion
 Sex
 Sexual orientation
-Ideologies that by nature are not embracing, or tolerant of, these differences such as nazism or neo-nazism have no place—and never will have—at Okuna. This includes sharing associated symbols or imagery.
+Ideologies that by nature are not embracing, or tolerant of, these differences such as nazism or neo-nazism have no place—and never will have—at SweeLOL. This includes sharing associated symbols or imagery.
 
-🏷 Drop the labels and stereotypes
+### 🏷 Drop the labels and stereotypes
 Labelling and stereotyping consists of assigning a certain set of behaviours and characteristics to a person based on an attribute—such as nationality or political inclination.
 
 The first step to a successful co-existence is the willingness to engage with each other. Labels get in the way of this by loading us up with prejudices and assumptions not necessarily true about the person we’re interacting with.
 
-✌️ Be courteous, polite and respectful
+### ✌️ Be courteous, polite and respectful
 Show friendliness, concern and respect for others in manners, speech and behaviour.
 
 Here are some practical tips on this.
@@ -65,8 +67,8 @@ As a last resort, consider blocking. As in real life, there might be cases where
 If the discussion becomes aggressive…
 
 Stop immediately and report. Aggression only leads to more aggression.
-🕴 Respect people’s privacy
-As a privacy-first social network, we take privacy seriously. Please respect people’s privacy.
+### 🕴👏  Respect people’s privacy
+We take privacy seriously. Please respect people’s privacy.
 
 Do not share people's
 
@@ -74,21 +76,21 @@ personal details
 personal opinions
 privately uploaded content
 photos of them without their consent
-🕊 Curb hate
-We want Okuna to be a welcoming and friendly place for everyone to surf with peace of mind.
+## 🕊 Curb hate
+We want Sweelol to be a welcoming and friendly place for everyone to surf with peace of mind.
 
 Speech containing demeaning, denigrating, humiliating or brutalising comments—whether personal or in general—have no place on Okuna.
 
-😬 Avoid spamming
+### 😬 Avoid spamming
 Following, connecting and commenting with the purposes of advertising, phishing and spreading malware are all spam-like activity. Avoid spam activity.
 
-🥳 Be you
+### 🥳 Be you
 It’s okay to be yourself or an anonymous version of yourself in Okuna. What’s not all right is pretending to be someone you’re not. Impersonating Christopher Hemsworth online won't get you friends IRL or build you the same quantity of arm muscle.
 
-🤖 Keep the bots out
+### 🤖 Keep the bots out
 Scripts or bots that interact with the social network in any way will be found and removed. Associated accounts may also be blocked or removed.
 
-🙏 Keep content legal
+### 🙏 Keep content legal
 By illegal content we mean:
 
 inciting violence/self-harm
@@ -98,31 +100,27 @@ terrorist material
 links to copyrighted material such as books, music, television programs and films.
 Sharing any of these will lead to the immediate closure of your account and reporting to the authorities where applicable.
 
-🚮 Ditch the pornography
+### 🚮 Ditch the pornography
 Printed, visual or links to material containing the display of sexual organs, activity or nudity* are not allowed.
 
-🏡 Embrace the shared responsibility
-Making Okuna a healthy and welcoming community for everyone is a shared responsibility.
+### 🏡 Embrace the shared responsibility
+Making SweeLOL a healthy and welcoming community for everyone is a shared responsibility.
 
 When everything calls for anger, engage in discussion.
 When something doesn’t look right, report it.
 When creating a community, own your community: arm it with moderators and administrators capable and informed to enforce the guidelines of the platform.
-Have a great idea? Suggest it on the feature board.
-Found a bug? Report it on the bug tracker.
 It’s up to each of us to create a digital space we’re proud and happy to be part of. We’re glad you’re here.
 
-📝 Notes
+### 📝 Notes
 On photos of children
 Never share pictures of other people's children without the consent of their parent or guardian.
 Share the fewest possible pictures.
 Double-check who can see the pictures. Preferably share only to your private circles.
 Always ask the children. Ask them understandable things like "Do you think it's okay to share this picture with my family or friends?" and respect their answer.
-Points borrowed from the Norwegian Data Protection Authority.
 
 On harmful beliefs
 Some beliefs can cause real life harm. For example, the now unfortunately wide-spread belief that vaccination causes autism (it doesn’t as overwhelmingly proven by numeours and independent studies) resulting in the resurgence of measles outbreaks. Beliefs like this example are exempted from the protected status and we will do our best to prevent their spreading on the platform.
 
-We will also determine a belief to be harmful—and therefore not protected—if:
 
 its harm has been widely and independently scientifically proven (such as in the anti-vaccination case cited)
 it results in the direct physical harm of people (such as in the claim a soap pod was edible resulting in the deaths of seven people and over seven thousand cases of poisoning)
