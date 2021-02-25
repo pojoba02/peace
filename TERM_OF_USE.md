@@ -1,4 +1,4 @@
-# ðŸ‘©â€âš–ï¸ Terms of use
+# 🌹 Terms of use
 
 
 ## 1. **General**
@@ -13,7 +13,7 @@ Okuna offers you a platform where you can share your content with other members 
 
 Our services are offered to all users equally, as the platform is built to be secure by design and makes no use of algorithms favoring any user. We strongly believe in embracing diversity and polite and respectful behavior. Therefore, our community-crafted guidelines will set the right foundation to foster an ethical, social network.
 
-## 3. **Using Okuna**
+## 3. **Using SweeLOL**
 
 Okuna requires users to be sixteen (16) years of age or over in order to use our services. When making an account, prospective users are obliged to be truthful and disclose accurate information.
 
