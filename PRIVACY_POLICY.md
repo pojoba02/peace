@@ -1,4 +1,4 @@
-# ðŸ”ï¸ Privacy policy
+# 🚀 Privacy policy 
 
 ## **1.** **Introduction**
 
@@ -203,14 +203,6 @@ If you are under the age of 16, please do not submit any Personal Information th
 
 ## **12.** **Contact Us**
 
-You can direct any questions regarding this Privacy Policy to Okuna by sending an email to dpo@okuna.io, or by post to:
 
-**Okuna** Attn: Privacy
+**SweeLOL** 
 
-Bagijnestraat 25
-
-2511CK Den Haag
-
-The Netherlands
-
-Please include your name and email address in email requests, and your name and postal address in mail requests.
